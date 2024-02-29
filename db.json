@@ -1,0 +1,108 @@
+{
+  "videos": [
+    {
+      "id": "7752",
+      "caption": "Car",
+      "imageURL": "https://cdn.motor1.com/images/mgl/NGGZon/s3/koenigsegg-gemera.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/C_rsdqKA6ok"
+    },
+    {
+      "id": "d250",
+      "caption": "Fashion",
+      "imageURL": "https://cdn.pixabay.com/photo/2017/05/13/12/40/fashion-2309519_1280.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/C4tAnJPWQBM"
+    },
+    {
+      "id": "5559",
+      "caption": "Leo",
+      "imageURL": "https://images.news18.com/ibnlive/uploads/2023/10/leo-movie-review-vijay-film-2023-10-1e2b26eca663a1c07de3b347b2db49db.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/Po3jStA673E"
+    },
+    {
+      "id": "7f7a",
+      "caption": "Food",
+      "imageURL": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/healthy-eating-ingredients-1296x728-header.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/GPBe-oYlG1A"
+    },
+    {
+      "id": "329a",
+      "caption": "Bike",
+      "imageURL": "https://static.toiimg.com/photo/80452572.cms?imgsize=156776",
+      "youtubeLink": "https://www.youtube.com/embed/O3TJXRQyv_w"
+    },
+    {
+      "id": "85fa",
+      "caption": "KGF",
+      "imageURL": "https://img.youtube.com/vi/-KfsY-qwBS0/0.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/-KfsY-qwBS0"
+    },
+    {
+      "id": "9256",
+      "caption": "Spaghetti ",
+      "imageURL": "https://www.allrecipes.com/thmb/ZhDrBmciWzegNpBWB-5LXEvULao=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Easyspaghettiwithtomatosauce_11715_DDMFS_4x3_2424-8d7bf30b2622465f9dd78a2c6277eeb8.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/jBoMTZIHqLc"
+    }
+  ],
+  "categories": [
+    {
+      "id": "b773",
+      "categoryName": "Trailers",
+      "allVideos": [
+        {
+          "id": "5559",
+          "caption": "Leo",
+          "imageURL": "https://images.news18.com/ibnlive/uploads/2023/10/leo-movie-review-vijay-film-2023-10-1e2b26eca663a1c07de3b347b2db49db.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/Po3jStA673E"
+        },
+        {
+          "id": "85fa",
+          "caption": "KGF",
+          "imageURL": "https://img.youtube.com/vi/-KfsY-qwBS0/0.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/-KfsY-qwBS0"
+        }
+      ]
+    },
+    {
+      "id": "fe8c",
+      "categoryName": "Fashion",
+      "allVideos": []
+    },
+    {
+      "id": "dfa4",
+      "categoryName": "Cooking",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "f318",
+      "caption": "Car",
+      "youtubeLink": "https://www.youtube.com/embed/C_rsdqKA6ok",
+      "timeStamp": "02/23/2024, 04:53:04 PM"
+    },
+    {
+      "id": "ef29",
+      "caption": "Bike",
+      "youtubeLink": "https://www.youtube.com/embed/O3TJXRQyv_w",
+      "timeStamp": "02/26/2024, 12:09:19 PM"
+    },
+    {
+      "id": "3e7e",
+      "caption": "Fashion",
+      "youtubeLink": "https://www.youtube.com/embed/C4tAnJPWQBM",
+      "timeStamp": "02/26/2024, 12:09:39 PM"
+    },
+    {
+      "id": "1398",
+      "caption": "Spaghetti ",
+      "youtubeLink": "https://www.youtube.com/embed/jBoMTZIHqLc",
+      "timeStamp": "02/26/2024, 12:29:53 PM"
+    },
+    {
+      "id": "bda8",
+      "caption": "KGF",
+      "youtubeLink": "https://www.youtube.com/embed/-KfsY-qwBS0",
+      "timeStamp": "02/26/2024, 12:29:59 PM"
+    }
+  ]
+}
